@@ -2,9 +2,9 @@ html, body {
 	padding: 0;
 	margin: 0;
 	overflow: hidden;
-	
-	background: #8080ff;
-	color: white;
+	background: url(images/old.jpg);
+ background-size:  cover;
+color: white;
 }
 
 html, body, canvas {
